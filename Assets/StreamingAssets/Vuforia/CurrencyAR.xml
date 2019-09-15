@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="2000-note-front" size="0.166000 0.069559" />
+    <ImageTarget name="2000-note-back" size="0.166000 0.069559" />
+    <ImageTarget name="500-note-front" size="0.150000 0.066987" />
+    <ImageTarget name="500-note-back" size="0.150000 0.066987" />
+    <ImageTarget name="200-note-front" size="0.146000 0.065935" />
+    <ImageTarget name="200-note-back" size="0.146000 0.066529" />
+    <ImageTarget name="100_rs_note_reverse" size="0.142000 0.066387" />
+    <ImageTarget name="100_rs_note_obverse" size="0.142000 0.066387" />
+    <ImageTarget name="50-note-front" size="0.135000 0.060957" />
+    <ImageTarget name="50-note-back" size="0.135000 0.062746" />
+    <ImageTarget name="20-note-front" size="0.129000 0.058723" />
+    <ImageTarget name="20-note-back" size="0.129000 0.058251" />
+    <ImageTarget name="10-note-front" size="0.123000 0.056194" />
+    <ImageTarget name="10-note-back" size="0.123000 0.057104" />
+    <ImageTarget name="5-note-front" size="0.117000 0.061760" />
+    <ImageTarget name="5-note-back" size="0.117000 0.061058" />
+  </Tracking>
+</QCARConfig>
